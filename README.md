@@ -37,7 +37,7 @@ To get started, follow these steps:
 
 1. Clone this repository to your local machine or download it as a ZIP file.
 2. Navigate to the repository's directory.
-3. Install the required Python libraries (see [Requirements](#requirements)).
+3. Install the required Python libraries (see [Requirements](https://github.com/Uninterestedguy/PythonDSPractice/blob/main/requirements.txt)).
 4. Launch Jupyter Notebook or JupyterLab.
 5. Open the practice sheet notebook (`practice_sheet.ipynb`) in the Jupyter interface.
 6. Read the instructions and complete the exercises as per the given guidelines.
